@@ -81,18 +81,8 @@ Clone and run any of the simulation files directly:
 
 git clone https://github.com/anttiluode/IHTAI
 cd IHTAI
-python iht_simulation_base.py
 
-
-To train the holographic transform:
-
-python iht_training_main.py
-
-
-To analyze the trained matrix:
-
-python iht_analyze_trained_W.py
-
+...
 
 All figures will be saved automatically (PNG format).
 
