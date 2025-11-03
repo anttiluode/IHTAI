@@ -1,5 +1,12 @@
 🌀 Inverse Holographic Theory of the Universe (IHT-AI) (Chatgpt wrote this) 
 
+... So basically.. A GUT theory where universe.. Does not collapse from its configurations. 
+All particles do divide on qm level.. Producing more and more dimensions with perhaps planck scale 
+as the division edge.. Consciousness and matter.. Are mathematical attractors.. Which then only 
+observe a certain version of universe.. So instead of holographic universe where universe is a 
+projection from lower manifold.. We are actually lower manifold in near infinite dimension universe. 
+A multiverse theory with a twist I guess.. 
+
 “Because why the hell not.”
 Some code, some math, and a long, strange conversation between a human and an AI.
 Maybe it’s nonsense — or maybe it’s the first computational hint of something real.
