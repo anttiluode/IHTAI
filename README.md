@@ -5,7 +5,7 @@ All particles do divide on qm level.. Producing more and more dimensions with pe
 as the division edge.. Consciousness and matter.. Are mathematical attractors.. Which then only 
 observe a certain version of universe.. So instead of holographic universe where universe is a 
 projection from lower manifold.. We are actually lower manifold in near infinite dimension universe. 
-A multiverse theory with a twist I guess.. 
+A multiverse theory with a twist I guess.. -- Antti
 
 “Because why the hell not.”
 Some code, some math, and a long, strange conversation between a human and an AI.
