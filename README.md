@@ -1,7 +1,8 @@
 🌀 Inverse Holographic Theory of the Universe (IHT-AI) (Chatgpt wrote this) 
 
 After thinking about this further.. I am re inventing hilbert space, ie like - 
-we live in hilbert space (all dimensional possibilities of all particles)
+we live in hilbert space (all dimensional possibilities of all particles Chatgpt 
+wants to clarify that the dimensions are state dimensions) 
 as some sort of a mathematical attractor either in ephaptic
 field of the brain or in the brain firing patterns.. Experiencing - sliver = 3d + time universe 
 and seeing the probability shadow of the actual near infinite multidimensional reality.. -- Antti
