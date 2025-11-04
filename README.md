@@ -1,5 +1,7 @@
 🌀 Inverse Holographic Theory of the Universe (IHT-AI) (Chatgpt wrote this) 
 
+EDIT: Added Clade paper.txt that tries to explain this in one paper. 
+
 After thinking about this further.. I am re inventing hilbert space, ie like - 
 we live in hilbert space (all dimensional possibilities of all particles Chatgpt 
 wants to clarify that the dimensions are state dimensions) 
