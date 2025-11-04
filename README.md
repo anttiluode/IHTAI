@@ -1,6 +1,7 @@
 🌀 Inverse Holographic Theory of the Universe (IHT-AI) (Chatgpt wrote this) 
 
-EDIT: Added Clade paper.txt that tries to explain this in one paper. 
+EDIT: Added Clade paper.txt that tries to explain this in one paper. Perhaps that is all 
+you have to read of this depo. Most of the sim code was us doing something I barely understand. 
 
 After thinking about this further.. I am re inventing hilbert space, ie like - 
 we live in hilbert space (all dimensional possibilities of all particles Chatgpt 
